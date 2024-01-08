@@ -1,0 +1,40 @@
+.bg-cont2{
+    background-image:linear-gradient(rgb(7 30 31 / 60%), rgb(7 30 31 / 60%) , rgb(7 30 31 / 60%)), url(./images/call-to-action-bg.jpg);
+    
+    background-size: cover;//rgb(240 240 240);rgb(7 30 31);
+    background-attachment:fixed;
+
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    h1{
+        font-size: 30px;
+        font-weight: 600;
+        color:#fff;
+        text-align: center;
+
+    }
+    p{
+        font-family: 15px;
+    padding:10px 20px;
+        text-align:center ;
+        color: #fff;
+        padding-bottom: 30px;
+    }
+.button2{
+  
+    button{
+        border: 2px solid #fff;
+        border-radius: 20px;
+        padding: 10px 35px;
+        text-transform:capitalize;
+  
+        
+
+
+    }
+}
+}
